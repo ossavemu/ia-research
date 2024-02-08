@@ -1,0 +1,258 @@
+---
+author: OSCAR SANTIAGO VELEZ MUÑOZ
+pubDatetime: 2024-02-06
+modDatetime: 2024-02-06
+title: Introducción
+featured: false
+draft: false
+tags:
+  - docs
+  - FAQ
+canonicalURL: ""
+description: Introducción del proyecto de monografía
+---
+
+## Introducción
+
+La educación contemporánea está inmersa en una revolución de la mano de tecnologías
+emergentes como la inteligencia artificial (IA). Dentro del campo de la IA, las capacidades de
+generación automática de lenguaje están transformando radicalmente lo que estas
+tecnologías pueden hacer. Según un reporte de OpenIA (2022), los actuales modelos de
+lenguaje como GPT-3 pueden redactar ensayos de nivel universitario, contestar exámenes
+tipo test e incluso generar poesía.
+
+Sin embargo, como estudiante de filosofía me pregunto ¿qué implicaciones tiene este
+fenómeno para la enseñanza de disciplinas que se centran en el desarrollo de habilidades
+como el pensamiento crítico, la argumentación racional y la reflexión existencial? Para
+pensar estos asuntos, es relevante volver sobre las inquietudes que filósofos como Platón
+plantearon en su momento sobre tecnologías como la escritura.
+
+En su diálogo Fedro, Platón (427-347 AC) argumenta que la escritura reconfigura la relación
+con la memoria y el conocimiento al permitir su externalización. Así, paradójicamente la
+escritura debilitaría nuestra capacidad de aprender y recordar al relegar estas facultades a
+un soporte externo: el texto (Carr, 2014). A la luz de esta tensión histórica entre tecnologías
+de información y procesos cognitivos, surge la pregunta contemporánea sobre si
+herramientas como el ChatGPT representan para la educación filosófica nuevas
+encarnaciones de la antigua “farmacopea” platónica: ¿veneno o remedio? (Lanier, 2022).
+Si bien es cierto que los actuales modelos de lenguaje aún están lejos de emular la
+conciencia humana (Gabriel, 2022), cada vez se acercan más a replicar habilidades que antes
+se consideraban exclusivas de nuestra especie, incluyendo la creatividad, el razonamiento
+lógico o la resolución de problemas ambiguos (Bommasani et al., 2021). Esto apertura
+grandes oportunidades, pero también el riesgo de que los estudiantes reemplacen el trabajo
+reflexivo por atajos automatizados, erosionando sus capacidades para pensar de forma
+independiente y crítica.
+
+Es en este contexto donde se vuelve apremiante investigar y comprender las implicaciones
+filosóficas, éticas y educativas de la integración de IA en la formación universitaria. El
+presente estudio se propone abordar esta problemática desde el caso de las facultades de
+filosofía en Colombia. A través de un diseño mixto, se busca determinar los usos que
+actualmente les dan los estudiantes a estas tecnologías, para luego analizar sus posibles
+ventajas y riesgos de cara a los ideales formativos de desarrollo intelectual, personal y
+ciudadano que orientan la educación superior en filosofía.
+
+Los hallazgos derivados sentarán bases empíricas para el diseño de lineamientos éticos y
+buenas prácticas educativas en torno al complejo fenómeno de la IA generativa, el cual sin
+duda alguna está llamado a tener una enorme incidencia en el devenir de la educación.
+---
+author: OSCAR SANTIAGO VELEZ MUÑOZ
+pubDatetime: 2024-02-07
+modDatetime: 2024-02-07
+title: Justificación
+featured: false
+draft: false
+tags:
+  - docs
+canonicalURL: ""
+description: Justificación del proyecto de monografía
+---
+
+## Justificación
+
+Este tema responde a los rápidos avances actuales en tecnologías de IA que pueden emular
+habilidades cognitivas humanas como la lecto-escritura. Si bien estos desarrollos plantean
+grandes oportunidades para expandir el acceso a la educación, también disruptivos riesgos y
+desafíos. Como estudiante de filosofía, esta problemática atrae particularmente mi interés y
+preocupación.
+
+El problema que se busca abordar son los potenciales efectos de la creciente mediación de la
+IA en los procesos formativos en habilidades de pensamiento en el campo de la filosofía.
+Como señalaron críticos de la tecnología como Platón, el uso irrestricto de nuevas
+tecnologías podría debilitar nuestra capacidad de aprender y pensar críticamente al relegar
+dichas facultades a procesos automatizados. Por tanto, surge la necesidad de investigar las
+formas en que los estudiantes de filosofía están integrando estas tecnologías emergentes en
+sus labores académicas.
+
+Se asumirá una perspectiva humanista, que pone las capacidades reflexivas y éticas del ser
+humano en el centro. No se trata de condenar o exaltar acríticamente la IA, sino de
+promover usos conscientes y éticos focalizados en el desarrollo integral de los estudiantes.
+Los hallazgos permitirán comprender mejor el fenómeno contemporáneo de la IA generativa
+en la educación superior, sentando bases para el diseño contextualizado de políticas,
+directrices éticas y buenas prácticas pedagógicas en esta área. Así se aspira a contribuir
+tanto al debate académico como a la calidad de los procesos formativos en la filosofía.
+---
+author: OSCAR SANTIAGO VELEZ MUÑOZ
+pubDatetime: 2024-02-08
+modDatetime: 2024-02-08
+title: Metodología
+featured: false
+draft: false
+tags:
+  - docs
+canonicalURL: ""
+description: Metodología y estructuración del proyecto de monografía
+---
+
+## Metodología
+
+Para el abordaje de estos objetivos se seguirá un enfoque cualitativo con alcance
+exploratorio y descriptivo. Como técnicas de recolección de información se utilizarán:
+
+- Análisis documental de políticas institucionales y normativas éticas sobre IA en
+educación (Zhong, 2022).
+- Entrevistas semi-estructuradas con estudiantes de filosofía para caracterizar sus usos
+y percepciones (Vázquez et al., 2021).
+- Grupos focales con expertos en pedagogía crítica de la filosofía para identificar
+riesgos formativos (Orozco &amp; González, 2020).
+- El análisis se realizará desde dos categorías principales:
+
+1. Patrones de uso estudiantil
+de herramientas de IA generativa.
+2. Percepciones sobre su impacto en procesos de
+pensamiento crítico y reflexivo.
+
+El análisis de datos seguirá un enfoque mixto, utilizando métodos cuantitativos para el
+análisis de cuestionarios y enfoques cualitativos, como el análisis de contenido temático,
+para las entrevistas. Este diseño metodológico permitirá una comprensión holística de los
+patrones cuantitativos y cualitativos relacionados con el uso de la IA generativa en la
+formación filosófica.
+
+### Consideraciones Éticas
+
+La investigación se guiará por principios éticos sólidos, asegurando la participación
+voluntaria de los estudiantes y obteniendo su consentimiento informado. La
+confidencialidad de los datos personales será prioritaria, cumpliendo con los estándares
+éticos establecidos para la investigación académica.
+
+Los resultados permitirán la triangulación de diferentes fuentes, conduciendo a conclusiones
+y recomendaciones con base en las voces de los diversos actores para promover usos
+éticamente responsables.
+
+## Contenidos tentativos
+
+### Fundamentos teóricos
+
+- Racionalidad, pensamiento crítico y ética en la tradición filosófica: Se analizarán conceptos
+clave desarrollados por pensadores emblemáticos como Platón y Heidegger. Se identificará
+cómo han definido capacidades humanas como la racionalidad, el ejercicio del juicio crítico y
+reflexivo, así como principios éticos fundamentales.
+
+- Implicaciones cognitivas y culturales de las tecnologías de información: Se discutirán los
+planteamientos de autores como McLuhan y Postman sobre los impactos e influencias de las
+tecnologías en los esquemas de pensamiento y las formas de vida humana a lo largo de la
+historia.
+
+- Debates éticos contemporáneos sobre la IA: Se mapearán las discusiones actuales en torno
+a capacidades prometedoras pero también riesgos y desafíos de tecnologías de IA, tanto a
+nivel global como en política pública y ética de la educación superior en América Latina.
+
+### Usos y percepciones estudiantiles sobre IA generativa
+
+- Acceso y patrones de uso de herramientas de IA: A través de un cuestionario con
+estudiantes de filosofía, se determinará el nivel de acceso y los tipos de uso que dan a
+tecnologías de IA generativa como ChatGPT para sus labores académicas.
+
+- Percepciones sobre efectos en habilidades de pensamiento crítico: Por medio de
+entrevistas semi-estructuradas, se caracterizarán las percepciones de los estudiantes sobre
+los efectos positivos y/o negativos de estas herramientas en habilidades como el
+razonamiento lógico, la argumentación, el criterio propio.
+
+- Principios éticos en los usos: Se interpretará de forma crítica la noción de ética que
+comunican los estudiantes en sus patrones de uso y discurso sobre estas tecnologías.
+
+### Desafíos y oportunidades formativas
+
+- Se discutirán los hallazgos sobre riesgos, beneficios y principales tensiones éticas
+identificadas en torno a la integración de IA generativa en los procesos formativos en
+filosofía.
+
+- Formulación de recomendaciones éticas y pedagógicas: Como cierre, se plantearán
+sugerencias para promover usos críticos, creativos y éticamente responsables de estas
+tecnologías entre estudiantes y docentes de filosofía.
+---
+author: OSCAR SANTIAGO VELEZ MUÑOZ
+pubDatetime: 2024-02-08
+modDatetime: 2024-02-08
+title: Objetivos
+featured: false
+draft: false
+tags:
+  - docs
+canonicalURL: ""
+description: Objetivos del proyecto de monografía
+---
+
+## Objetivos
+
+Analizar el impacto de las herramientas de inteligencia artificial generativa en el desarrollo
+de habilidades de pensamiento crítico y reflexivo en estudiantes de filosofía de educación
+superior en Cali.
+
+### Objetivo general
+
+- Identificar y caracterizar los usos que les dan los estudiantes de filosofía a las
+herramientas de IA generativa para sus labores académicas.
+
+- Determinar las percepciones de estudiantes sobre efectos de estas tecnologías en
+habilidades como el razonamiento lógico y la argumentación.
+
+- Formular recomendaciones éticas y pedagógicas para promover usos reflexivos y
+responsables, acordes con los propósitos formativos de la disciplina.
+---
+author: OSCAR SANTIAGO VELEZ MUÑOZ
+pubDatetime: 2024-02-09
+modDatetime: 2024-02-09
+title: Referencias
+featured: false
+draft: false
+tags:
+  - docs
+canonicalURL: ""
+description: Referencias del proyecto de monografía
+---
+
+## Referencias
+
+Se tomarán como referencias tanto fuentes primarias clásicas como artículos especializados
+contemporáneos:
+
+- Platón. Fedro.
+- Heidegger, M. (1994). La pregunta por la técnica.
+- Lyon, D. (2018). La cultura de la vigilancia.
+- Antonio Luis Terrones Rodríguez (2022) Ética para la inteligencia artificial sostenible.
+Universidad de Valencia. Instituto de Filosofía.
+- McLuhan, M. (1964). Comprender los medios de comunicación: Las extensiones del
+ser humano. Aguilar
+- Postman, N. (1985). Divertirse hasta morir: El discurso público en la era del
+espectáculo. DeBolsillo
+- Y artículos académicos sobre ética de la IA y educación superior. (actualmente estoy
+traduciendo algunos, casi todos están en inglés como el de Zhong, B. et al. (2022)).
+---
+author: OSCAR SANTIAGO VELEZ MUÑOZ
+pubDatetime: 2024-02-07
+modDatetime: 2024-02-07
+title: Tema
+featured: false
+draft: false
+tags:
+  - docs
+canonicalURL: ""
+description: Tema del proyecto de monografía
+---
+
+## Tema
+
+El tema que se abordará en la presente investigación es el impacto de las herramientas de
+inteligencia artificial generativa en la enseñanza y el aprendizaje de la filosofía en el contexto de la educación superior en Colombia. En particular, se analizará el uso de chatbots y
+modelos de lenguaje como ChatGPT entre estudiantes de filosofía, para determinar
+implicaciones en el desarrollo de habilidades como el pensamiento crítico y reflexivo que son
+fundamentales en esta disciplina.

@@ -6,24 +6,23 @@ import Footer from "@components/Footer.astro";
 import LinkButton from "@components/LinkButton.astro";
 import Hr from "@components/Hr.astro";
 import Card from "@components/Card";
-import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
-import { SOCIALS } from "@config";
 
 const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
-
-const socialCount = SOCIALS.filter(social => social.active).length;
 ---
 
 <Layout>
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
+      <h1>
+        El uso de herramientas de IA generativa en la formación de estudiantes
+        de filosofía
+      </h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -42,68 +41,50 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        La inteligencia artificial (IA) es una de las tecnologías más
+        innovadoras y disruptivas de la actualidad, que tiene aplicaciones en
+        diversos campos del conocimiento y la actividad humana. Entre sus ramas
+        más fascinantes se encuentra la IA generativa, que consiste en la
+        capacidad de las máquinas de crear contenido nuevo y original a partir
+        de datos existentes, como texto, imágenes, sonido, vídeo, código y datos
+        sintéticos. Algunas de las herramientas de IA generativa más populares
+        son ChatGPT, Google Bard, entre otras.
+      </p><p>
+        Estas herramientas pueden ser utilizadas con fines educativos,
+        artísticos, científicos, comerciales, entre otros. Sin embargo, también
+        plantean desafíos y riesgos, especialmente en el ámbito académico, donde
+        pueden facilitar el plagio y comprometer la integridad y la calidad de
+        los trabajos de los estudiantes.
+      </p><p>
+        Este proyecto de investigación tiene como objetivo analizar el uso de
+        herramientas de IA generativa en la formación de estudiantes de
+        filosofía, una disciplina que requiere el desarrollo del pensamiento
+        crítico y la capacidad de argumentar. Para ello, se realizará un estudio
+        de caso en dos universidades colombianas: la Universidad del Valle y la
+        Universidad Javeriana sede Cali, donde se entrevistará a una muestra de
+        estudiantes de filosofía que hayan utilizado o no estas herramientas en
+        sus tareas académicas.
       </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
-      {
-        // only display if at least one social link is enabled
-        socialCount > 0 && (
-          <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
     </section>
 
     <Hr />
-
-    {
-      featuredPosts.length > 0 && (
-        <>
-          <section id="featured">
-            <h2>Featured</h2>
-            <ul>
-              {featuredPosts.map(({ data, slug }) => (
-                <Card
-                  href={`/posts/${slug}/`}
-                  frontmatter={data}
-                  secHeading={false}
-                />
-              ))}
-            </ul>
-          </section>
-          {recentPosts.length > 0 && <Hr />}
-        </>
-      )
-    }
-
     {
       recentPosts.length > 0 && (
         <section id="recent-posts">
-          <h2>Recent Posts</h2>
+          <h2>Capítulos</h2>
           <ul>
-            {recentPosts.map(
-              ({ data, slug }, index) =>
-                index < 4 && (
-                  <Card
-                    href={`/posts/${slug}/`}
-                    frontmatter={data}
-                    secHeading={false}
-                  />
-                )
-            )}
+            {recentPosts
+              .reverse()
+              .map(
+                ({ data, slug }, index) =>
+                  index < 12 && (
+                    <Card
+                      href={`/posts/${slug}/`}
+                      frontmatter={data}
+                      secHeading={false}
+                    />
+                  )
+              )}
           </ul>
         </section>
       )
@@ -111,7 +92,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
     <div class="all-posts-btn-wrapper">
       <LinkButton href="/posts/">
-        All Posts
+        Todos los capítulos
         <svg xmlns="http://www.w3.org/2000/svg"
           ><path
             d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
@@ -130,7 +111,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply pb-6 pt-8;
   }
   #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+    @apply my-4 inline-block text-xl font-bold sm:my-8 sm:text-3xl;
   }
   #hero .rss-link {
     @apply mb-6;
