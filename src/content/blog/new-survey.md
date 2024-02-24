@@ -30,6 +30,7 @@ description: Encuesta para estudiantes de pregrado de los programas de Filosofí
 - ¿En qué etapas del proceso de aprendizaje de la filosofía has utilizado herramientas de IA? (Ej. búsqueda de información, fuentes bibliográficas, análisis de textos, elaboración de ideas, redacción)
 - ¿Cómo has integrado el uso de herramientas de IA con tus métodos de estudio tradicionales? (Ej. lectura, toma de notas, debate)
 - ¿Has encontrado que el uso de herramientas de IA te ha permitido aprender de manera más eficiente o efectiva? (Especificar cómo)
+- ¿Has utilizado herramientas de IA para colaborar con otros estudiantes en proyectos de filosofía? (Especificar como)
 
 ### Impacto en la calidad de las tareas
 
@@ -37,7 +38,6 @@ description: Encuesta para estudiantes de pregrado de los programas de Filosofí
 - ¿Has recibido comentarios de tus profesores sobre el impacto del uso de IA en la calidad de tus trabajos? (Especificar comentarios positivos o negativos)
 - ¿Consideras que el uso de herramientas de IA te ha dado una ventaja competitiva en tus estudios de filosofía? (Explorar razones)
 - ¿De qué manera las herramientas de IA te han ayudado a identificar sesgos, falacias y argumentos débiles en textos filosóficos? (Proporcionar ejemplos)
-- ¿Has notado alguna tendencia a depender de las herramientas de IA para la evaluación crítica de la información, sin realizar un análisis propio? (Reflexionar sobre la importancia del pensamiento crítico independiente)
 
 ### Desarrollo de la argumentación y la lógica
 
@@ -51,20 +51,21 @@ description: Encuesta para estudiantes de pregrado de los programas de Filosofí
 - ¿Has encontrado que las herramientas de IA te han limitado en tu capacidad para pensar de forma original y proponer nuevas ideas? (Especificar cómo)
 - ¿Consideras que el uso de IA puede ser una herramienta para estimular la creatividad y la innovación en la filosofía, o que puede tener un efecto contrario? (Argumentar tu posición)
 
-### Autoevaluación y metacognición
+### Autoevaluación y metacognición (darme cuenta de mis propios procesos de pensamiento y aprendizaje)
 
 - ¿El uso de herramientas de IA te ha ayudado a ser más consciente de tus propios procesos de pensamiento y a mejorar tu capacidad de autoevaluación? (Explicar cómo)
-- ¿Has utilizado las herramientas de IA para reflexionar sobre tus fortalezas y debilidades como pensador crítico? (Compartir ejemplos de tu proceso de metacognición)
-- ¿En qué medida crees que el uso de IA puede contribuir a desarrollar una mayor metacognición en los estudiantes de filosofía? (Explorar las posibilidades)
+- ¿Has utilizado las herramientas de IA para reflexionar sobre tus fortalezas y debilidades como pensador crítico? (Compartir ejemplos de tu proceso meta-cognitivo)
+- ¿En qué medida crees que el uso de IA puede contribuir a desarrollar procesos cognitivos en los estudiantes de filosofía? (Explorar las posibilidades)
 
 ### Desafíos y limitaciones
 
-- ¿Qué dificultades o desafíos has enfrentado al usar herramientas de IA para tus tareas de filosofía? (Ej. sesgo en la información, errores en la traducción, falta de control sobre el contenido generado)
-- ¿Cómo has abordado estos desafíos para asegurar que tus tareas sean precisas, confiables y originales? (Describir estrategias)
-- ¿En qué aspectos crees que las herramientas de IA aún necesitan mejorar para ser más útiles para los estudiantes de filosofía? (Ej. precisión, control del usuario, transparencia)
+- ¿Qué dificultades o desafíos has enfrentado al usar herramientas de IA para tus tareas de filosofía? (Ej. sesgo en la información, alucinación de la maquina, errores en la traducción, falta de control sobre el contenido generado)
+- ¿Has abordado estos desafíos para asegurar que tus tareas sean precisas, confiables y originales? (Si es así, escribir estrategias)
+- ¿En qué aspectos crees que las herramientas de IA aún necesitan mejorar para ser más útiles para los estudiantes de filosofía? (Ej. precisión, transparencia de la información, integración con bases de datos académicas, accesibilidad de las herramientas, compatibilidad con el idioma)
 
 ### Reflexiones
 
-- En tu opinión, ¿cuál es el futuro del uso de herramientas de IA en la carrera de filosofía? (Considerar la evolución de la tecnología, la formación de los estudiantes, la ética y la responsabilidad)
-- ¿Qué recomendaciones darías a los estudiantes de filosofía sobre cómo usar las herramientas de IA de manera responsable y efectiva?
+- En tu opinión, ¿cuál es el futuro del uso de herramientas de IA en la carrera de filosofía? (Considerar la evolución de la tecnología, la formación de los estudiantes)
+- ¿Qué recomendaciones darías a los estudiantes de filosofía sobre cómo usar las herramientas de IA de manera ética y responsable?
+- ¿Has notado alguna tendencia a depender de las herramientas de IA para la evaluación crítica de la información, sin realizar un análisis propio? (Reflexionar sobre la importancia del pensamiento crítico independiente)
 - ¿Qué mensaje te gustaría transmitir a tus profesores sobre la importancia de la formación en el uso de tecnologías de IA en la enseñanza de la filosofía?
