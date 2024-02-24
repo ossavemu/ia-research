@@ -73,18 +73,16 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         <section id="recent-posts">
           <h2>Capítulos</h2>
           <ul>
-            {recentPosts
-              .reverse()
-              .map(
-                ({ data, slug }, index) =>
-                  index < 12 && (
-                    <Card
-                      href={`/posts/${slug}/`}
-                      frontmatter={data}
-                      secHeading={false}
-                    />
-                  )
-              )}
+            {recentPosts.map(
+              ({ data, slug }, index) =>
+                index < 12 && (
+                  <Card
+                    href={`/posts/${slug}/`}
+                    frontmatter={data}
+                    secHeading={false}
+                  />
+                )
+            )}
           </ul>
         </section>
       )
