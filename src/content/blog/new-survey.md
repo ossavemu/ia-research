@@ -27,7 +27,7 @@ description: Encuesta para estudiantes de pregrado de los programas de Filosofí
 
 ### Integración en el proceso de aprendizaje
 
-- ¿En qué etapas del proceso de aprendizaje de la filosofía has utilizado herramientas de IA? (Ej. búsqueda de información, análisis de textos, elaboración de ideas, redacción)
+- ¿En qué etapas del proceso de aprendizaje de la filosofía has utilizado herramientas de IA? (Ej. búsqueda de información, fuentes bibliográficas, análisis de textos, elaboración de ideas, redacción)
 - ¿Cómo has integrado el uso de herramientas de IA con tus métodos de estudio tradicionales? (Ej. lectura, toma de notas, debate)
 - ¿Has encontrado que el uso de herramientas de IA te ha permitido aprender de manera más eficiente o efectiva? (Especificar cómo)
 
