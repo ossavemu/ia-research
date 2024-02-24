@@ -23,7 +23,7 @@ description: Encuesta para estudiantes de pregrado de los programas de Filosofí
 
 - ¿Qué herramientas de IA específicas (modelos, plataformas, aplicaciones) has utilizado para tus tareas de filosofía? (Ej. Gemini, ChatGPT, Claude, Notion AI)
 - ¿Qué características o funcionalidades específicas de estas herramientas te han resultado más útiles para tus estudios de filosofía? (Ej. generación de ideas, análisis de argumentos, traducción de textos)
-- ¿Has encontrado alguna diferencia en la eficacia de las diferentes herramientas de IA para diferentes tipos de tareas de filosofía? (Ej. análisis de textos, escritura de ensayos, traducción)
+- ¿Has encontrado alguna diferencia en la eficacia de las diferentes herramientas de IA para diferentes tipos de tareas de filosofía? (Ej. análisis de textos, escritura de ensayos, traducción, videos, paginas web, enciclopedias, etc.)
 
 ### Integración en el proceso de aprendizaje
 
